@@ -1,1 +1,2 @@
-# personal-repo
+install dependency
+add gitignore
